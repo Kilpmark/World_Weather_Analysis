@@ -1,5 +1,6 @@
 # Add config.py
 config.py
+**/config.py
 
 # Add other files
 random_numbers.ipynb
